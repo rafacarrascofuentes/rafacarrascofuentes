@@ -25,6 +25,8 @@ I'm Rafa, a computer engineer working in home automation integrations.
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
 
 <h2 class="heading-element" dir="auto">Learning</h2>
 
