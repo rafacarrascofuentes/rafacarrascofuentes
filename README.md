@@ -1,9 +1,5 @@
 <h2 class="heading-element" dir="auto">🌌 Hello there</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacarrascofuentes&hide_title=true&stats_format=bytes&layout=compact&theme=city_lights" />
-</a>
-
 I'm Rafa, a computer engineer working in home automation integrations.
 * Always learning.
 * Passionate about connecting technology with everyday life.
